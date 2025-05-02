@@ -40,6 +40,8 @@
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
   
   
@@ -62,12 +64,12 @@ A lo largo de mi trayectoria como desarrollador de software, he trabajado en div
   
 <h2> 📩Contact Me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/isaiasruben4912/" target="blank"><img align="center"
-      src="assets/linkedin.png"
-      alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/isaiasruben4912/" target="blank"><img align="center"
+    src="https://content.linkedin.com/content/dam/platform/site/in/company/linkedin/logos/linkedin-logo-vector-2c-original.png"
+    alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:isaiasruben1987@gmail.com" target="blank"><img align="center"
-    src="assets/gmail.png"
-    alt="email" height="30" width="40" /></a>
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"
+    alt="Gmail" height="30" width="40" /></a>
 </p>
 
 </span>
