@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hola, Soy Isaias Ruben Ramos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<h2> ⭐About Me</h2>
+<h2> ⭐Acerca de Mi</h2>
 
- - 🧑‍💻 Soy Tecnico Superior en Desarrollo Web y Aplicaciones Digitales ,graduado en Instituto Superior Politecnico de Cordoba. Apasionado por el Desarrollo Web, siempre estoy ansioso por aprender y mejorar mis habilidades.
+ - 🧑‍💻Egresado del Instituto Superior Politécnico de Córdoba como Técnico Superior en Desarrollo Web y Aplicaciones Digitales. Mi entusiasmo por el desarrollo web es la fuerza motriz detrás de mi dedicación por aprender, evolucionar y superar nuevos retos en el mundo digital.
 
  - 💡Me considero una persona dedicada, organizada y profesional, con una fuerte mentalidad resolutiva. Disfruto afrontando retos, trabajando en proyectos significativos y colaborando con otros para crear soluciones eficientes y escalables.
 
