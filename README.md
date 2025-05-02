@@ -3,11 +3,11 @@
 
 <h2> ⭐Acerca de Mi</h2>
 
- - 🧑‍💻Egresado del Instituto Superior Politécnico de Córdoba como Técnico Superior en Desarrollo Web y Aplicaciones Digitales. Mi entusiasmo por el desarrollo web es la fuerza motriz detrás de mi dedicación por aprender, evolucionar y superar nuevos retos en el mundo digital.
+🧑‍💻 Técnico Superior en Desarrollo Web y Aplicaciones Digitales, egresado del Instituto Superior Politécnico de Córdoba. Mi pasión por la innovación digital impulsa mi aprendizaje continuo y la superación de retos en el desarrollo web.
 
- - 💡Me considero una persona dedicada, organizada y profesional, con una fuerte mentalidad resolutiva. Disfruto afrontando retos, trabajando en proyectos significativos y colaborando con otros para crear soluciones eficientes y escalables.
+💡 Profesional dedicado y organizado, con una sólida mentalidad resolutiva. Disfruto afrontar proyectos significativos, colaborar para crear soluciones eficientes y escalables, y actualmente me enfoco como Desarrollador Fullstack con especialización en Java.
 
- - 🌱Actualmente Me Considero un Desarrollador Fullstack orientado  a Java y me interesa contribuir a proyectos de código abierto. También me encanta compartir conocimientos e interactuar con la comunidad tecnológica.
+🌱 Con interés en contribuir a proyectos de código abierto, valoro compartir conocimientos e interactuar activamente con la comunidad tecnológica.
 
 </span>
 
