@@ -2,6 +2,9 @@
 
 
 <h2> ⭐Acerca de Mi</h2>
+<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+
+
 
 🧑‍💻 Técnico Superior en Desarrollo Web y Aplicaciones Digitales, egresado del Instituto Superior Politécnico de Córdoba. Mi pasión por la innovación digital impulsa mi aprendizaje continuo y la superación de retos en el desarrollo web.
 
