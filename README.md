@@ -65,7 +65,7 @@ A lo largo de mi trayectoria como desarrollador de software, he trabajado en div
 <h2> 📩Contact Me</h2>
 <p>
 <a href="https://www.linkedin.com/in/isaiasruben4912/" target="blank"><img align="center"
-    src="https://content.linkedin.com/content/dam/platform/site/in/company/linkedin/logos/linkedin-logo-vector-2c-original.png"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"
     alt="LinkedIn" height="30" width="40" /></a>
 <a href="mailto:isaiasruben1987@gmail.com" target="blank"><img align="center"
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png"
