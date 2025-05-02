@@ -7,8 +7,6 @@
 
  - 💡Me considero una persona dedicada, organizada y profesional, con una fuerte mentalidad resolutiva. Disfruto afrontando retos, trabajando en proyectos significativos y colaborando con otros para crear soluciones eficientes y escalables.
 
-🌱 
-
  - 🌱Actualmente Me Considero un Desarrollador Fullstack orientado  a Java y me interesa contribuir a proyectos de código abierto. También me encanta compartir conocimientos e interactuar con la comunidad tecnológica.
 
 </span>
@@ -21,6 +19,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+ <h4>Lenguajes de Marcado y Estilos para la Web</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
@@ -41,7 +40,7 @@
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">
+
   
   
 
@@ -66,7 +65,7 @@ A lo largo de mi trayectoria como desarrollador de software, he trabajado en div
   <a href="https://www.linkedin.com/in/isaiasruben4912/" target="blank"><img align="center"
       src="assets/linkedin.png"
       alt="linkedin" height="30" width="40" /></a>
-  <a href="isaiasruben1987@gmail.com" target="blank"><img align="center"
+  <a href="mailto:isaiasruben1987@gmail.com" target="blank"><img align="center"
       src="assets/gmail.png"
       alt="email" height="30" width="40" /></a>
 </p>
