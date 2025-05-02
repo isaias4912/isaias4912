@@ -52,13 +52,10 @@
 
 <h2> 🚀My Portfolio </h2>
 <p>
-  Throughout my journey as a software developer, I’ve worked on various projects that reflect my skills and passion for technology.  
-  In my portfolio, you'll find a selection of my work, ranging from front-end designs to back-end architectures.  
-  I’m always looking for opportunities to innovate and collaborate.  
-  Feel free to check out my projects!
+A lo largo de mi trayectoria como desarrollador de software, he trabajado en diversos proyectos que reflejan mis habilidades y pasión por la tecnología. En mi portafolio, encontrarás mis habilidaes,logros y otras cosas . Siempre busco oportunidades para innovar y colaborar. ¡No dudes en consultar mis proyectos!
 </p>
 
-🔗 **[Visit My Portfolio](https://github.com/ThiagoGonzalezz/my-portfolio)**
+🔗 **[Visit My Portfolio](https://isaias4912.github.io/portafolio-2025/)**
 
 </span>
 
@@ -66,10 +63,10 @@
   
 <h2> 📩Contact Me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/thiago-martin-gonzalez/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/isaiasruben4912/" target="blank"><img align="center"
       src="assets/linkedin.png"
       alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:thiago23gonzalez@gmail.com" target="blank"><img align="center"
+  <a href="isaiasruben1987@gmail.com" target="blank"><img align="center"
       src="assets/gmail.png"
       alt="email" height="30" width="40" /></a>
 </p>
